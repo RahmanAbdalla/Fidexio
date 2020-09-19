@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48fefa4e-c254-43ab-8c8d-22ce9005b77b" name="Default Changelist" comment="" />
+    <list default="true" id="48fefa4e-c254-43ab-8c8d-22ce9005b77b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/TestBase/waitClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/Fidexio_Login_Steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/PosManager_Steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/leaves.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/TestBase/waitClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/Utilities/implicitWaits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/Fidexio_Login_Steps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/Hooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/PosManager_Steps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/features/leaves.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/Pages/FidexioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/Pages/FidexioPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/runners/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/FidexioSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/fidexio.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/fidexio.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/Pages/FidexioPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/Pages/FidexioPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/runners/CukesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/FidexioSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/fidexio.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/fidexio.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +39,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +50,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1hOKS66SmqhAJ9S7qBgjj2m1IFp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -105,40 +134,44 @@
     </state>
     <state x="426" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1599885202969" />
     <state x="426" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.830@0.23.1440.830" timestamp="1599884122304" />
-    <state width="1390" height="289" key="GridCell.Tab.0.bottom" timestamp="1600007349146">
+    <state width="1390" height="255" key="GridCell.Tab.0.bottom" timestamp="1600551842882">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1390" height="255" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599885604427" />
     <state width="1390" height="232" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1599884205513" />
-    <state width="1390" height="289" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349146" />
+    <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600551842882" />
     <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.852@0.0.1440.852" timestamp="1599936204348" />
+    <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.853@0.0.1440.853" timestamp="1600551658481" />
     <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1599935592101" />
     <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.829@0.23.1440.829" timestamp="1599936529705" />
-    <state width="1390" height="289" key="GridCell.Tab.0.center" timestamp="1600007349144">
+    <state width="1390" height="255" key="GridCell.Tab.0.center" timestamp="1600551842876">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1390" height="255" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599885604425" />
     <state width="1390" height="232" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1599884205506" />
-    <state width="1390" height="289" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349144" />
+    <state width="1390" height="255" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600551842876" />
     <state width="1390" height="255" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.852@0.0.1440.852" timestamp="1599936204336" />
+    <state width="1390" height="255" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.853@0.0.1440.853" timestamp="1600551658460" />
     <state width="1390" height="255" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1599935592098" />
     <state width="1390" height="255" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.829@0.23.1440.829" timestamp="1599936529694" />
-    <state width="1390" height="289" key="GridCell.Tab.0.left" timestamp="1600007349142">
+    <state width="1390" height="255" key="GridCell.Tab.0.left" timestamp="1600551842873">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1390" height="255" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599885604424" />
     <state width="1390" height="232" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1599884205500" />
-    <state width="1390" height="289" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349142" />
+    <state width="1390" height="255" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600551842873" />
     <state width="1390" height="255" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.852@0.0.1440.852" timestamp="1599936204334" />
+    <state width="1390" height="255" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.853@0.0.1440.853" timestamp="1600551658448" />
     <state width="1390" height="255" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1599935592095" />
     <state width="1390" height="255" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.829@0.23.1440.829" timestamp="1599936529693" />
-    <state width="1390" height="289" key="GridCell.Tab.0.right" timestamp="1600007349145">
+    <state width="1390" height="255" key="GridCell.Tab.0.right" timestamp="1600551842879">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1390" height="255" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599885604426" />
     <state width="1390" height="232" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1599884205509" />
-    <state width="1390" height="289" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349145" />
+    <state width="1390" height="255" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600551842879" />
     <state width="1390" height="255" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.852@0.0.1440.852" timestamp="1599936204344" />
+    <state width="1390" height="255" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.853@0.0.1440.853" timestamp="1600551658476" />
     <state width="1390" height="255" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1599935592100" />
     <state width="1390" height="255" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.829@0.23.1440.829" timestamp="1599936529697" />
     <state width="1390" height="289" key="GridCell.Tab.1.bottom" timestamp="1600007349150">

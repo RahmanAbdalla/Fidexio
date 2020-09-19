@@ -23,8 +23,43 @@ public class FidexioPage {
     public WebElement passwordInput;
 
 
-    @FindBy (xpath = "(//span[@class='oe_menu_text'])[15]")
-    public WebElement employeesModule;
+    @FindBy (xpath = "//a[@href='#']")
+    public WebElement moreDropDown;
 
+    @FindBy(xpath = "(//span[@class='oe_menu_text'])[18]")
+    public WebElement leaveModule;
+
+    @FindBy(xpath = "//td[@data-date='2020-08-31']")
+    public WebElement Monday;
+
+    @FindBy(xpath = "//input[@name='name']")
+    public WebElement descriptionInput;
+
+    @FindBy (id = "o_field_input_21")
+    public WebElement leaveDropDown;
+
+    @FindBy (xpath = "(//li[@class='ui-menu-item'])[1]")
+    public WebElement sickLeave;
+
+    @FindBy (xpath = "//input[@name='date_from']")
+    public WebElement dateFrom;
+
+    @FindBy (xpath = "//input[@name='date_to']")
+    public WebElement dateTo;
+
+    @FindBy (xpath = "(//input[@class='o_input ui-autocomplete-input'])[2]")
+    public WebElement employee;
+
+    @FindBy (xpath = "(//li[@class='ui-menu-item']/a)[7]")
+    public WebElement demoUser;
+
+    @FindBy (xpath = "(//input[@ autocomplete ='off'])[4]")
+    public WebElement department;
+
+    @FindBy(xpath = "(//li[@class='ui-menu-item']/a)[12]")
+    public WebElement crmDepartment;
+
+    @FindBy (xpath = "//button[@accesskey='s']")
+    public WebElement saveBtn;
 
 }
