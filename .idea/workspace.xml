@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48fefa4e-c254-43ab-8c8d-22ce9005b77b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hOKS66SmqhAJ9S7qBgjj2m1IFp" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cybertek.Utilities" />
+      <recent name="com.cybertek.runner" />
+      <recent name="com.rootFolder.Pages" />
+      <recent name="com.rootFolder.Steps_Defs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/cybertek/Utilities" />
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CukesRunner">
+    <configuration name="CukeRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fidexio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.runner.CukeRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fidexio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="JUnit.CukeRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48fefa4e-c254-43ab-8c8d-22ce9005b77b" name="Default Changelist" comment="" />
+      <created>1599876694514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599876694514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="426" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599885202969">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="426" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1599885202969" />
+    <state x="426" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.830@0.23.1440.830" timestamp="1599884122304" />
+    <state width="1390" height="289" key="GridCell.Tab.0.bottom" timestamp="1600007349146">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="255" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599885604427" />
+    <state width="1390" height="232" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1599884205513" />
+    <state width="1390" height="289" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349146" />
+    <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.852@0.0.1440.852" timestamp="1599936204348" />
+    <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1599935592101" />
+    <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.829@0.23.1440.829" timestamp="1599936529705" />
+    <state width="1390" height="289" key="GridCell.Tab.0.center" timestamp="1600007349144">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="255" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599885604425" />
+    <state width="1390" height="232" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1599884205506" />
+    <state width="1390" height="289" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349144" />
+    <state width="1390" height="255" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.852@0.0.1440.852" timestamp="1599936204336" />
+    <state width="1390" height="255" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1599935592098" />
+    <state width="1390" height="255" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.829@0.23.1440.829" timestamp="1599936529694" />
+    <state width="1390" height="289" key="GridCell.Tab.0.left" timestamp="1600007349142">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="255" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599885604424" />
+    <state width="1390" height="232" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1599884205500" />
+    <state width="1390" height="289" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349142" />
+    <state width="1390" height="255" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.852@0.0.1440.852" timestamp="1599936204334" />
+    <state width="1390" height="255" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1599935592095" />
+    <state width="1390" height="255" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.829@0.23.1440.829" timestamp="1599936529693" />
+    <state width="1390" height="289" key="GridCell.Tab.0.right" timestamp="1600007349145">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="255" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599885604426" />
+    <state width="1390" height="232" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1599884205509" />
+    <state width="1390" height="289" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349145" />
+    <state width="1390" height="255" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.852@0.0.1440.852" timestamp="1599936204344" />
+    <state width="1390" height="255" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1599935592100" />
+    <state width="1390" height="255" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.829@0.23.1440.829" timestamp="1599936529697" />
+    <state width="1390" height="289" key="GridCell.Tab.1.bottom" timestamp="1600007349150">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="289" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599882696405" />
+    <state width="1390" height="289" key="GridCell.Tab.1.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349150" />
+    <state width="1390" height="289" key="GridCell.Tab.1.center" timestamp="1600007349148">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="289" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1599882696401" />
+    <state width="1390" height="289" key="GridCell.Tab.1.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349148" />
+    <state width="1390" height="289" key="GridCell.Tab.1.left" timestamp="1600007349147">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="289" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1599882696400" />
+    <state width="1390" height="289" key="GridCell.Tab.1.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349147" />
+    <state width="1390" height="289" key="GridCell.Tab.1.right" timestamp="1600007349149">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1390" height="289" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1599882696403" />
+    <state width="1390" height="289" key="GridCell.Tab.1.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349149" />
+  </component>
+</project>

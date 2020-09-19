@@ -1,0 +1,65 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-09-12T18:48:52.764Z",
+        "line": 6,
+        "name": "User should be able to go to explore Employee module",
+        "description": "",
+        "id": "employees-module;user-should-be-able-to-go-to-explore-employee-module",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10168000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User should be able to click on the Employee module",
+            "match": {
+              "location": "com.cybertek.step_definitions.FidexioSteps.user_should_be_able_to_click_on_the_employee_module()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3672000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User should see the list of Employee",
+            "match": {
+              "location": "com.cybertek.step_definitions.FidexioSteps.user_should_see_the_list_of_employee()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2170000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User should be able to click on any employee profile and see all the info",
+            "match": {
+              "location": "com.cybertek.step_definitions.FidexioSteps.user_should_be_able_to_click_on_any_employee_profile_and_see_all_the_info()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@one"
+          }
+        ]
+      }
+    ],
+    "name": "Employees Module",
+    "description": "",
+    "id": "employees-module",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/fidexio.feature",
+    "tags": []
+  }
+]
