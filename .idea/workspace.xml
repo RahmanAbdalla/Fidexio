@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="48fefa4e-c254-43ab-8c8d-22ce9005b77b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/fidexio.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/fidexio.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/leaves.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/leaves.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/Pages/FidexioPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/Pages/FidexioPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/PosManager_Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/PosManager_Steps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/fidexio.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/fidexio.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/leaves.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/leaves.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

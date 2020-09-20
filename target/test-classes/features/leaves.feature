@@ -5,7 +5,7 @@
     Background: login
       Given user logs in with correct credentials
 
-    @testNow
+    @Smoke
       Scenario: pos Manager
         Given pos Manager click on leave module
         Then pos Manager clicks on a calender day

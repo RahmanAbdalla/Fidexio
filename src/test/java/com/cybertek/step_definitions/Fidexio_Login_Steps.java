@@ -16,7 +16,7 @@ public class Fidexio_Login_Steps extends waitClass {
     @Given("{string} goes to the login page")
     public void goesToTheLoginPage(String user) {
 
-        Driver.getDriver().get("http://app.briteerp.com/web/login");
+      //  Driver.getDriver().get("http://app.briteerp.com/web/login");
 
         System.out.println(user+" is on the login page");
     }
