@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="48fefa4e-c254-43ab-8c8d-22ce9005b77b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/fidexio.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/fidexio.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/leaves.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/leaves.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,26 @@
       <recent name="$PROJECT_DIR$/src/test/resources/features" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CukesRunner">
+  <component name="RunManager" selected="Cucumber java.Scenario: User should be able login with correct credentials">
+    <configuration name="Scenario: User should be able login with correct credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/fidexio.feature" />
+      <option name="GLUE" value="com.cybertek.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Fidexio" />
+      <option name="NAME_FILTER" value="^User should be able login with correct credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User should be able login with correct credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User should be able login with correct credentials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CukeRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Fidexio" />
       <extension name="coverage">
@@ -89,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber java.Scenario: User should be able login with correct credentials" />
         <item itemvalue="JUnit.CukesRunner" />
         <item itemvalue="JUnit.CukeRunner" />
       </list>
@@ -117,42 +135,46 @@
     </state>
     <state x="426" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1599885202969" />
     <state x="426" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.830@0.23.1440.830" timestamp="1599884122304" />
-    <state width="1390" height="255" key="GridCell.Tab.0.bottom" timestamp="1600551842882">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1390" height="255" key="GridCell.Tab.0.bottom" timestamp="1600615597163">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state width="1390" height="255" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599885604427" />
     <state width="1390" height="232" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1599884205513" />
     <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600551842882" />
+    <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1600615597163" />
     <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.852@0.0.1440.852" timestamp="1599936204348" />
     <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.853@0.0.1440.853" timestamp="1600551658481" />
     <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1599935592101" />
     <state width="1390" height="255" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.829@0.23.1440.829" timestamp="1599936529705" />
-    <state width="1390" height="255" key="GridCell.Tab.0.center" timestamp="1600551842876">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1390" height="255" key="GridCell.Tab.0.center" timestamp="1600615597153">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state width="1390" height="255" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599885604425" />
     <state width="1390" height="232" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1599884205506" />
     <state width="1390" height="255" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600551842876" />
+    <state width="1390" height="255" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1600615597153" />
     <state width="1390" height="255" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.852@0.0.1440.852" timestamp="1599936204336" />
     <state width="1390" height="255" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.853@0.0.1440.853" timestamp="1600551658460" />
     <state width="1390" height="255" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1599935592098" />
     <state width="1390" height="255" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.829@0.23.1440.829" timestamp="1599936529694" />
-    <state width="1390" height="255" key="GridCell.Tab.0.left" timestamp="1600551842873">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1390" height="255" key="GridCell.Tab.0.left" timestamp="1600615597149">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state width="1390" height="255" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599885604424" />
     <state width="1390" height="232" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1599884205500" />
     <state width="1390" height="255" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600551842873" />
+    <state width="1390" height="255" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1600615597149" />
     <state width="1390" height="255" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.852@0.0.1440.852" timestamp="1599936204334" />
     <state width="1390" height="255" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.853@0.0.1440.853" timestamp="1600551658448" />
     <state width="1390" height="255" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1599935592095" />
     <state width="1390" height="255" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.829@0.23.1440.829" timestamp="1599936529693" />
-    <state width="1390" height="255" key="GridCell.Tab.0.right" timestamp="1600551842879">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1390" height="255" key="GridCell.Tab.0.right" timestamp="1600615597156">
+      <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state width="1390" height="255" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599885604426" />
     <state width="1390" height="232" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1599884205509" />
     <state width="1390" height="255" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600551842879" />
+    <state width="1390" height="255" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1600615597156" />
     <state width="1390" height="255" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.852@0.0.1440.852" timestamp="1599936204344" />
     <state width="1390" height="255" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.853@0.0.1440.853" timestamp="1600551658476" />
     <state width="1390" height="255" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1599935592100" />
