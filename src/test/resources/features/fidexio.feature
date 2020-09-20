@@ -3,7 +3,6 @@
 
 
 
-    @Regression
     Scenario Outline: User should be able login with correct credentials
 
       Given "<User>" goes to the login page
