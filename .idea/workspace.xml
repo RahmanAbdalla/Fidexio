@@ -2,30 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48fefa4e-c254-43ab-8c8d-22ce9005b77b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/TestBase/waitClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/Fidexio_Login_Steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/PosManager_Steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/leaves.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/TestBase/waitClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/Utilities/implicitWaits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/Fidexio_Login_Steps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/Hooks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/PosManager_Steps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/leaves.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/Pages/FidexioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/Pages/FidexioPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/runners/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/FidexioSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/fidexio.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/fidexio.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/leaves.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/leaves.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/Pages/FidexioPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/Pages/FidexioPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/runners/CukesRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/FidexioSteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/fidexio.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/fidexio.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/PosManager_Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/step_definitions/PosManager_Steps.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +44,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -129,6 +111,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="327" y="67" key="#Scenario:_pos_Manager" timestamp="1600560424064">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="327" y="67" key="#Scenario:_pos_Manager/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600560424064" />
     <state x="426" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599885202969">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -194,5 +180,9 @@
     </state>
     <state width="1390" height="289" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1599882696403" />
     <state width="1390" height="289" key="GridCell.Tab.1.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600007349149" />
+    <state x="150" y="1" key="SettingsEditor" timestamp="1600560227504">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="150" y="1" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1600560227504" />
   </component>
 </project>
